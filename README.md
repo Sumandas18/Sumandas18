@@ -27,17 +27,18 @@ Passionate Full Stack Developer with hands-on experience in building scalable we
 </p>
 
 ### 🔐 Security & API
-- JWT Authentication  
-- REST API Design  
-- Middleware & Rate Limiting  
-- Helmet.js & CORS  
+- <img src="https://img.icons8.com/color/24/json.png"/> JWT Authentication  
+- <img src="https://img.icons8.com/color/24/api.png"/> REST API Design  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20"/> Middleware & Rate Limiting  
+- <img src="https://img.icons8.com/color/24/security-checked.png"/> Helmet.js & CORS   
 
 ---
 
 ### ⚡ State Management
-- Redux Toolkit  
-- Zustand  
-- Context API  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="20"/> Redux Toolkit  
+- <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/bear.jpg" width="20"/> Zustand  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> Context API  
+  
 
 ---
 
@@ -49,9 +50,9 @@ Passionate Full Stack Developer with hands-on experience in building scalable we
 ---
 
 ### 🤖 AI & Media APIs
-- Gemini API  
-- Howler.js  
-- WaveSurfer.js  
+- <img src="https://img.icons8.com/color/24/artificial-intelligence.png"/> Gemini API  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> Howler.js  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> WaveSurfer.js   
 
 ---
 
@@ -60,6 +61,7 @@ Passionate Full Stack Developer with hands-on experience in building scalable we
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumandas18&theme=tokyonight" />
 </p>
+
 ---
 
 ## 🚀 Key Strengths
