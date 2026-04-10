@@ -57,10 +57,9 @@ Passionate Full Stack Developer with hands-on experience in building scalable we
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumandas18&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🚀 Key Strengths
