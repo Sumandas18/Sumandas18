@@ -58,10 +58,6 @@ Passionate Full Stack Developer with hands-on experience in building scalable we
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sumandas18&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumandas18&theme=tokyonight" />
 </p>
 
